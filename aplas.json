@@ -1,21 +1,25 @@
 {
-  "id": "rightshoring_weblog",
-  "name": "Rightshoring Weblog",
-  "categoryId": "services",
-  "description": "Persevering multimedia support",
-  "investment_24m": "731",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "173",
-  "status_color": "#00FF00",
-  "type": "OffShelf",
-  "support_cost": "291",
-  "deployment_date": "25/8/10",
-  "end_of_maintenance": "6/5/17",
-  "department": "Marketing",
-  "status": "Active",
-  "end_of_life": "17/8/19",
-  "sme_name": "Rosa Philliphs",
-  "months_to_renew_support": "6",
-  "sme_email": "Rosa.Philliphs@memento.net.au",
-  "investment_number": "267"
+  "applications": [
+    {
+      "id": "rightshoring_weblog",
+      "name": "Rightshoring Weblog",
+      "categoryId": "services",
+      "description": "Persevering multimedia support",
+      "investment_24m": "731",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "173",
+      "status_color": "#00FF00",
+      "type": "OffShelf",
+      "support_cost": "291",
+      "deployment_date": "25/8/10",
+      "end_of_maintenance": "6/5/17",
+      "department": "Marketing",
+      "status": "Active",
+      "end_of_life": "17/8/19",
+      "sme_name": "Rosa Philliphs",
+      "months_to_renew_support": "6",
+      "sme_email": "Rosa.Philliphs@memento.net.au",
+      "investment_number": "267"
+    }
+  ]
 }
