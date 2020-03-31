@@ -1,0 +1,1 @@
+# rightshoring_weblog
